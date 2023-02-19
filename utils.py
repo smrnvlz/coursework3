@@ -1,6 +1,5 @@
 import requests
 from datetime import datetime
-from pprint import pprint
 
 
 def get_data(url):
